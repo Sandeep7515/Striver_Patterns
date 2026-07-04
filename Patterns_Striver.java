@@ -497,6 +497,7 @@ public class Patterns_Striver
         pattern7(n); 
         pattern8(n); 
         pattern9(n);
+        pattern10(n);
         pattern11(n); 
         pattern12(n);
         pattern13(n);
